@@ -19825,6 +19825,8 @@ button.gm-ui-hover-effect:focus {
   display: block;
 	position: relative;
 	z-index: 10;
+  /* overflow-y: hidden !important; */
+  /* overflow-x: hidden !important; */
 }
 
 .animation_layer {
@@ -19872,4 +19874,15 @@ button.gm-ui-hover-effect:focus {
 
 #manonmountain {
   background-image: url(../images/MainHome/man_on_mountain.png);
+}
+
+
+.margin-parallax{
+  margin-top: '760px';
+}
+
+@media screen and (max-width:768px) {
+  .margin-parallax{
+    margin-top: '-400px';
+  }
 }

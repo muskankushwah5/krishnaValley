@@ -56,7 +56,7 @@ const Index = () => {
       <div style={{height:"70%",overflow:"hidden"}}><Hero /></div>
 
       {/* <!-- Feature Properties --> */}
-      <section id="feature-property" className="feature-property bgc-f7">
+      <section id="feature-property" className="feature-property margin-parallax bgc-f7" >
         <div className="container">
           <div className="row">
             <div className="col-lg-6 offset-lg-3">

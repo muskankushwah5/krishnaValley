@@ -34,7 +34,7 @@ const CopyrightFooter = () => {
               target="_blank"
               rel="noreferrer"
             >
-              ib-themes
+             Krishna Valley
             </a>
             . All rights reserved.
           </p>

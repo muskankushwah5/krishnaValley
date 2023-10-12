@@ -45,19 +45,19 @@ const Footer = () => {
           <h4>Contact Us</h4>
           <ul className="list-unstyled">
             <li>
-              <a href="mailto:info@findhouse.com">info@findhouse.com</a>
+              <a href="mailto:info@findhouse.com">info@abc.com</a>
             </li>
             <li>
-              <a href="#">Collins Street West, Victoria</a>
+              <a href="#">123 Main Street</a>
             </li>
             <li>
-              <a href="#">8007, Australia.</a>
+              <a href="#">City.</a>
             </li>
             <li>
-              <a href="tel:+4733378901">+1 246-345-0699</a>
+              <a href="tel:+4733378901">+1 123 123 1234</a>
             </li>
             <li>
-              <a href="tel:+4733378901">+1 246-345-0695</a>
+              <a href="tel:+4733378901">+1 123 123 1234</a>
             </li>
           </ul>
         </div>
